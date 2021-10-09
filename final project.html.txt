@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>Final Project</title>
+</head>
+	<h1>Neo Fang Yi</h1>
+	<a href="">One</a> <a href="">Two</a> <a href="">Three</a> <a href="">Four</a>
+<body>
+	<section>
+	<h2>Favorite Foods</h2>
+		<ul>
+			<li>Hamburger</li>
+			<li>Prawn</li>
+			<li>Fried Chicken</li>
+			<li>Cake</li>
+		</ul>
+	</section>
+	<section>
+	<h2>Achievements</h2>
+		<p>Progress in this course (100%)<progress value="1"></progress><br/>
+		Progress in the Specialization capstone (20%)<progress value="20" max="100"></progress><br/>
+		Progress in life goals (25%)<progress value="25" max="100"></progress></p>
+    </section>
+    <section>
+	<h2>More About Me</h2>
+	<details open>
+	<summary>My Childhood</summary>
+	<p>I grew up in Benut which is a village in Malaysia. I really love my hometown.</p>
+	</details>
+    </section>
+    <br>
+	<footer>
+	<p>
+		<img src="http://www.intro-webdesign.com/images/newlogo.png" alt="new logo">
+		This page is created by Neo Fang Yi & Colleen van Lent. To learn more about web design, visit <a href="http://www.intro-webdesign.com">Intro to web design</a>
+	</p>
+	</footer>
+</body>
+</html>
